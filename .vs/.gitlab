@@ -1,0 +1,11 @@
+{
+  "User": {
+    "id": 646109,
+    "username": "psduckie",
+    "name": "PSDuckie",
+    "email": "psduckie@yahoo.com",
+    "new_portrait": null,
+    "host": "https://gitlab.com",
+    "two_factor_enabled": false
+  }
+}

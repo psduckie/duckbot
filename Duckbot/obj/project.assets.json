@@ -19,6 +19,19 @@
           "lib/netstandard1.3/DSharpPlus.dll": {}
         }
       },
+      "DSharpPlus.CommandsNext/3.1.2": {
+        "type": "package",
+        "dependencies": {
+          "DSharpPlus": "3.1.2",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.3/DSharpPlus.CommandsNext.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/DSharpPlus.CommandsNext.dll": {}
+        }
+      },
       "Libuv/1.9.1": {
         "type": "package",
         "dependencies": {
@@ -2486,6 +2499,27 @@
         "lib/netstandard1.3/DSharpPlus.xml",
         "lib/netstandard2.0/DSharpPlus.dll",
         "lib/netstandard2.0/DSharpPlus.xml"
+      ]
+    },
+    "DSharpPlus.CommandsNext/3.1.2": {
+      "sha512": "ZyS6xiReKvk3bI3jU9GhWRMpWO/VM/XeQWoKdIOJ/1Pe6iagglz096kGRm20wZcbzMp9UevBBcjtOfSn8iyN7A==",
+      "type": "package",
+      "path": "dsharpplus.commandsnext/3.1.2",
+      "files": [
+        "dsharpplus.commandsnext.3.1.2.nupkg.sha512",
+        "dsharpplus.commandsnext.nuspec",
+        "lib/net45/DSharpPlus.CommandsNext.dll",
+        "lib/net45/DSharpPlus.CommandsNext.xml",
+        "lib/net46/DSharpPlus.CommandsNext.dll",
+        "lib/net46/DSharpPlus.CommandsNext.xml",
+        "lib/net47/DSharpPlus.CommandsNext.dll",
+        "lib/net47/DSharpPlus.CommandsNext.xml",
+        "lib/netstandard1.1/DSharpPlus.CommandsNext.dll",
+        "lib/netstandard1.1/DSharpPlus.CommandsNext.xml",
+        "lib/netstandard1.3/DSharpPlus.CommandsNext.dll",
+        "lib/netstandard1.3/DSharpPlus.CommandsNext.xml",
+        "lib/netstandard2.0/DSharpPlus.CommandsNext.dll",
+        "lib/netstandard2.0/DSharpPlus.CommandsNext.xml"
       ]
     },
     "Libuv/1.9.1": {
@@ -7616,6 +7650,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
       "DSharpPlus >= 3.1.2",
+      "DSharpPlus.CommandsNext >= 3.1.2",
       "Microsoft.NETCore.App >= 1.1.2"
     ]
   },
@@ -7654,6 +7689,10 @@
     "frameworks": {
       "netcoreapp1.1": {
         "dependencies": {
+          "DSharpPlus.CommandsNext": {
+            "target": "Package",
+            "version": "3.1.2"
+          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "1.1.2",

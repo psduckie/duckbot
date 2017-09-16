@@ -1,14 +1,15 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "3f257a7a4247a1c07a90290b35747efdf9cd1e8f"
+    "signature": "69d6b4229ddee13262dc05f6cbc087a718ae5826"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "duckbot/1.0.0": {
         "dependencies": {
-          "DSharpPlus": "3.1.2"
+          "DSharpPlus": "3.1.2",
+          "DSharpPlus.CommandsNext": "3.1.2"
         },
         "runtime": {
           "Duckbot.dll": {}
@@ -22,6 +23,14 @@
         },
         "runtime": {
           "lib/netstandard1.3/DSharpPlus.dll": {}
+        }
+      },
+      "dsharpplus.commandsnext/3.1.2": {
+        "dependencies": {
+          "DSharpPlus": "3.1.2"
+        },
+        "runtime": {
+          "lib/netstandard1.3/DSharpPlus.CommandsNext.dll": {}
         }
       },
       "newtonsoft.json/10.0.3": {
@@ -115,6 +124,13 @@
       "sha512": "sha512-QtObX/XCl7hD++NUmxPTVVGsIY1Bjre5TnKBLoJDC6BJvgp6yaPTyWeRps+Su8LOdYqqa469p3cytEB4X4z0xw==",
       "path": "dsharpplus/3.1.2",
       "hashPath": "dsharpplus.3.1.2.nupkg.sha512"
+    },
+    "dsharpplus.commandsnext/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZyS6xiReKvk3bI3jU9GhWRMpWO/VM/XeQWoKdIOJ/1Pe6iagglz096kGRm20wZcbzMp9UevBBcjtOfSn8iyN7A==",
+      "path": "dsharpplus.commandsnext/3.1.2",
+      "hashPath": "dsharpplus.commandsnext.3.1.2.nupkg.sha512"
     },
     "newtonsoft.json/10.0.3": {
       "type": "package",
