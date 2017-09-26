@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{3E22A140-8C4A-42E0-87B5-6D00654AD0ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.Duckbot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
