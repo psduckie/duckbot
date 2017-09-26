@@ -1,13 +1,3 @@
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/bin/Debug/netcoreapp1.1/Duckbot.deps.json
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/bin/Debug/netcoreapp1.1/Duckbot.runtimeconfig.json
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/bin/Debug/netcoreapp1.1/Duckbot.runtimeconfig.dev.json
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/bin/Debug/netcoreapp1.1/Duckbot.dll
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.csprojResolveAssemblyReference.cache
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.csproj.CoreCompileInputs.cache
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.AssemblyInfo.cs
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/bin/Debug/netcoreapp1.1/Duckbot.pdb
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.dll
-D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.pdb
 /Volumes/Data/SoftwareRepositories/Duckbot/duckbot/Duckbot/bin/Debug/netcoreapp1.1/Duckbot.deps.json
 /Volumes/Data/SoftwareRepositories/Duckbot/duckbot/Duckbot/bin/Debug/netcoreapp1.1/Duckbot.runtimeconfig.json
 /Volumes/Data/SoftwareRepositories/Duckbot/duckbot/Duckbot/bin/Debug/netcoreapp1.1/Duckbot.runtimeconfig.dev.json
@@ -16,3 +6,13 @@ D:/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.
 /Volumes/Data/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.AssemblyInfo.cs
 /Volumes/Data/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.dll
 /Volumes/Data/SoftwareRepositories/Duckbot/duckbot/Duckbot/obj/Debug/netcoreapp1.1/Duckbot.pdb
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\bin\Debug\netcoreapp1.1\Duckbot.deps.json
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\bin\Debug\netcoreapp1.1\Duckbot.runtimeconfig.json
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\bin\Debug\netcoreapp1.1\Duckbot.runtimeconfig.dev.json
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\bin\Debug\netcoreapp1.1\Duckbot.dll
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\bin\Debug\netcoreapp1.1\Duckbot.pdb
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\obj\Debug\netcoreapp1.1\Duckbot.csprojResolveAssemblyReference.cache
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\obj\Debug\netcoreapp1.1\Duckbot.csproj.CoreCompileInputs.cache
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\obj\Debug\netcoreapp1.1\Duckbot.AssemblyInfo.cs
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\obj\Debug\netcoreapp1.1\Duckbot.dll
+D:\SoftwareRepositories\Duckbot\duckbot\Duckbot\obj\Debug\netcoreapp1.1\Duckbot.pdb

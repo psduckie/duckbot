@@ -2,6 +2,7 @@
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace Duckbot
 {
@@ -10,8 +11,23 @@ namespace Duckbot
         static DiscordClient discord;
         static CommandsNextModule commands;
 
+        public static LinkedList<BattleEntity> battleEntities;
+
         static void Main(string[] args)
         {
+            battleEntities = new LinkedList<BattleEntity>();
+
+            /* // Start test code
+            battleEntities.AddLast(new BattleEntity("Test 1", 5));
+            battleEntities.Last.Value.Initiative = 1000;
+            battleEntities.AddLast(new BattleEntity("Test 2", 5));
+            battleEntities.Last.Value.Initiative = 500;
+            battleEntities.AddLast(new BattleEntity("Test 3", 5));
+            battleEntities.Last.Value.Initiative = 250;
+            battleEntities.AddLast(new BattleEntity("Test 4", 5));
+            battleEntities.Last.Value.Initiative = 125;
+            // End test code */
+
             MainAsync(args).ConfigureAwait(false).GetAwaiter().GetResult();
         }
         static async Task MainAsync(string[] args)
